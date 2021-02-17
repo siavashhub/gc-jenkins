@@ -1,0 +1,11 @@
+---
+# create_containers: 2
+# default_container_name: docker
+# default_container_image: centos7.8.2003
+# default_container_command: sleep 1d
+
+# container_image: centos:7.8.2003
+# ansible_control_container_name: ansible_control
+# ansible_control_container_image: centos:7.8.2003
+# ansible_manage_container_name: ansible_manage
+# ansible_manage_container_image: centos:7.8.2003
