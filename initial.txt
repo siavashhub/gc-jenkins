@@ -1,1 +1,5 @@
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+
+
+backuP:
+docker cp jenkins:/var/jenkins_home ~/jenkins_backup
